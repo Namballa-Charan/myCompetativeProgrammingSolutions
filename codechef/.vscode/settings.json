@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "maven.view": "hierarchical",
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
